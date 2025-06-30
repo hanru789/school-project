@@ -1,6 +1,5 @@
 import streamlit as st
 
-
 # Judul aplikasi
 st.title("Formulir Kontak")
 
