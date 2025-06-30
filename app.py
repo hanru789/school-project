@@ -1,10 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-import matplotlib.patches as patches
-import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
-import joblib
-from tensorflow.keras.models import load_model
+
 
 # Judul aplikasi
 st.title("Formulir Kontak")
