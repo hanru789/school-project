@@ -20,7 +20,7 @@ Dropout bisa dipicu oleh latar belakang keluarga, performa siswa, atau sistem pe
 - Bagaimana cara memperkirakan siswa akan dropout atau tidak
 
 ### Cakupan Proyek
-Proyek ini mencakup pembuatan dashboard interaktf yang dapat digunakan user dalam memahami faktor-faktor dropout siswa. Selain itu menggunakan pendekatan machine learning dibuat sebuah model yang dapat menghitung posibilitas dropout siswa. Selanjutnya model machine learning di deploy menggunakan
+Proyek ini mencakup pembuatan dashboard interaktif yang dapat digunakan user dalam memahami faktor-faktor dropout siswa. Selain itu menggunakan pendekatan machine learning dibuat sebuah model yang dapat menghitung posibilitas dropout siswa. Selanjutnya dibuat prototype sistem machine learning yang dapat memprediksi kemungkinan dropout siswa.
 
 ### Persiapan
 Project ini menggunakan data siswa dari sebuah sekolah. Data dapat di download pada link berikut: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
