@@ -69,6 +69,11 @@ pip install -r requirements.txt
 
 ```
 
+- Menggunakan Streamlit
+```sh
+streamlit run app.py
+```
+
 - Business Dashboard dibuat menggunakan Tableau 
 
 ## Business Dashboard
@@ -90,3 +95,4 @@ https://school-project-2queaqxz9xictfkbpm7vjy.streamlit.app/
 ### Rekomendasi Action Items
 - Mengumpulkan siswa dengan kategori rentan dropout {pendidikan kedua orang tua -Basic education 1st cycle (4th/5th year) or equiv, pekerjaan kedua orag tua - unskilled workers, application mode - over 23 years old, cours - mnageent(evening attendance), nilai semester pertama mendekati 7.257, nilai semester kedua mendekati 5.899} selanjutnya memberikan pembekalan dan menjelaskan posisi mereka sebagai kategori rentan dropout. Harapannya ini dapat memicu siswa rentan tersebut untuk mengevaluasi diri agar tidak sampai dropout.
 - Menggunakan prototype machine learning terhadap seluruh siswa secara berkala sehingga pihak sekolah dapat mencegah dropout siswa yang memiliki kemungkinan untuk dropout.
+- Pada waktu penerimaan siswa baru sekolah dapat memfokuskan penerimaan pada siswa yang tidak berada pada kategori rentan dropout.
