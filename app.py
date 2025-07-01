@@ -154,4 +154,4 @@ if submitted:
 
     # Prediksi
     pred = model.predict(df)[0]
-    st.success("Hasil Prediksi: DROP OUT" if pred == 1 else "Hasil Prediksi: TIDAK DROP OUT")
+    st.success("Hasil Prediksi: Kemungkinan akan DROPOUT" if pred == 1 else "Hasil Prediksi: TIDAK DROP OUT")
